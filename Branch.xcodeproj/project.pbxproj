@@ -1003,6 +1003,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
+				MARKETING_VERSION = 1.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = io.branch.sdk.mac;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1014,6 +1015,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
+				MARKETING_VERSION = 1.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = io.branch.sdk.mac;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1025,6 +1027,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
+				MARKETING_VERSION = 1.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = io.branch.sdk.mac;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1205,6 +1208,7 @@
 		4D67477120C74E81001639C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				MARKETING_VERSION = 1.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = io.branch.sdk.mac;
 				SDKROOT = appletvos;
 			};
@@ -1213,6 +1217,7 @@
 		4D67477320C74E81001639C5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				MARKETING_VERSION = 1.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = io.branch.sdk.mac;
 				SDKROOT = appletvos;
 			};
@@ -1328,6 +1333,7 @@
 		4DFB135720CCD96400AF3E47 /* UnitTests */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				MARKETING_VERSION = 1.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = io.branch.sdk.mac;
 				SDKROOT = appletvos;
 			};
